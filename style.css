@@ -1,0 +1,27 @@
+.title {
+    background-color: rgb(29, 240, 240, 0.2);
+    padding: 5px;
+    text-align: center;
+    font-family: Helvetica, sans-serif, 'Arial Narrow', Arial, sans-serif;
+}
+
+.top3img {
+    height: 300px;
+    width: 100%;
+}
+
+.ullist {
+    background-color: bisque;
+    text-decoration: none;
+}
+
+.ullist-item {
+    font-weight: 200;
+    text-decoration: none;
+    color: black;
+}
+
+.ullist-item:hover{
+    color: rgba(40, 41, 41, 0.5);
+    transition: ease 0.3s;
+}
